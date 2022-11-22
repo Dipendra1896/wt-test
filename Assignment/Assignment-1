@@ -1,0 +1,244 @@
+<html>
+   <head>
+        <meta charset="utf-8">
+        <meta name ="viewport" content="width=device-width,initial-scale=1">
+        <title>table</title>
+   </head>
+     <body>
+           <table border="1" width="100%">
+                <tr>
+                    <td colspan="9"><h2><b>GANDAKI COLLEGE OF ENGINEERING AND SCIENCE <b><h2></td>
+                </tr>
+                <tr>        
+                    <td colspan="9"> <h4> <b> BE SE 2<sup> nd</sup> ,3<sup>rd</sup>, 5<sup>th</sup>, 7<sup>th</sup> SEMESTER CLASS ROUTINE 2022 (Effective from 1<sup>st</sup> November 2022 )  </b></h4></td>
+                </tr>
+                <tr>
+                    <th> DAY</th>
+                    <th> SEM</th>
+                    <th colspan="7"> TIME</th>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>6:10-7:05</td>
+                    <td>7:05-8:00</td>
+                    <td>8:05-9:00</td>
+                    <td>9:00-9:55</td>
+                    <td rowspan="32"> LUNCH TIME </td>
+                    <td>10:40-11:35</td>
+                    <td>11:35-12:30</td>  
+                </tr>
+                <tr>
+                    <td rowspan="5">SUNDAY</td>
+                </tr>
+                <tr> 
+                    <td> II SEM</td>
+                    <td> E.Math-II(SRA)</td>
+                    <td>LC(SRD)</td>
+                    <td>WT(NG)</td>
+                    <td>MFCS(RT)</td>
+                    <td>ED(KB/RD)</td>
+                    <td></td>
+                </tr>
+                <tr>    
+                    <td>III SEM</td>
+                    <td>SEF(PMB)</td>
+                    <td>E.Math-III(SRA)</td>
+                    <td colspan="2">Java-A(BD)/DSA-B(RBT)Lab</td> </td>
+                    <td colspan="2">MALP(SG) </td>
+                     
+                    
+                </tr>
+                <tr> 
+                    <td>V SEM</td>
+                    <td>ADA(AP)</td>
+                    <td>SP(BB)</td>
+                    <td>SM(RT)</td>
+                    <td>AII(ZP)</td>
+                    <td colspan="2">AOS-A(PS)/SM-B(RT)Lab</td>
+                </tr>
+                <tr>
+                    <td>VII SEM</td>
+                    <td>SQA(ST)</td>
+                    <td colspan="2">RTS-A(PMB0/DS-B(AP)Lab</td>
+                    <td>EAD(NG)</td>
+                    <td colspan="2">EAD-A Lab(NG)</td>
+                </tr>
+                <tr>
+                    <td rowspan="5">Monday </td>
+                </tr>  
+                <tr> 
+                    <td> II SEM</td>
+                    <td> LC(SRD)</td>
+                    <td>E.Math-II(SRA)</td>
+                    <td>WT(NG)</td>
+                    <td>MFCS(RT)</td>
+                    <td colspan="2"> </td>
+                </tr>
+                <tr>    
+                    <td>III SEM</td>
+                    <td colspan="2">PQT(PP)</td>
+                    <td>E.Math-III(SRA)</td>
+                    <td>Java(BD)</td> </td>
+                    <td>DSA(RBT) </td>  
+                    <td></td>  
+                </tr>
+                <tr> 
+                    <td>V SEM</td>
+                    <td>AOS(PS)</td>
+                    <td>OM(BS)</td>
+                    <td colspan="2">AI-A(JP)/SP-B(BB)Lab</td>
+                    <td colspan="2"> </td>
+                </tr>
+                <tr>
+                    <td>VII SEM</td>
+                    <td colspan="2">RTS-B(PMB)/DS-A(AP)Lab</td>
+                    <td> SQA(ST)</td>
+                    <td>EAD(NG)</td>
+                    <td colspan="2">EAD-B Lab(NG)</td>
+                </tr>
+                <tr>
+                    <td rowspan="5">Tuesday </td>
+                </tr>  
+                <tr> 
+                    <td> II SEM</td>
+                    <td>E.Math-II(SRA)</td>
+                    <td colspan="2">OOP in C++(SRD)</td>
+                    <td>MFCS(RT)</td>
+                    <td>WT(NG) </td>
+                    <td></td>
+                </tr>
+                <tr>    
+                    <td>III SEM</td>
+                    <td>PQT(PP)</td>
+                    <td> SEF(PMB)</td>
+                    <td>E.Math-III(SRA)</td>
+                    <td>MALP(SG)</td> </td>
+                    <td>DSA(RBT) </td>
+                    <td></td>    
+                </tr>
+                <tr> 
+                    <td>V SEM</td>
+                    <td>ADA(AP)</td>
+                    <td>AOS(PS)</td>
+                    <td colspan="2">AI-A(ZP)/SP-B(BB)Lab</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>VII SEM</td>
+                    <td>RTS(PMB)</td>
+                    <td> DS(AP)</td>
+                    <td>SQA(ST)</td>
+                    <td>EAD(NG)</td>
+                    <td>IPPR(ZP)</td>
+                    <td></td>
+                </tr>
+                <tr>
+                <td rowspan="5">Wednesday </td>
+            </tr>  
+            <tr> 
+                <td> II SEM</td>
+                <td>E.Math-II(SRA)</td>
+                <td colspan="2">OOP in C++(SRD)</td>
+                <td>MFCS(RT)</td>
+                <td colspan="2">ED(KB/RD) </td>
+            </tr>
+            <tr>    
+                <td>III SEM</td>
+                <td> SEF(PMB)</td>
+                <td>E.Math-III(SRA)</td>
+                <td colspan="2">Java-B(BD)/DSA-A(RBT)Lab</td>
+                <td> </td>
+                <td></td>
+            </tr>
+            <tr> 
+                <td>V SEM</td>
+                <td>SP(BB)</td>
+                <td>ADA(AP)</td>
+                <td>SM(RT)</td>
+                <td>AOS(PS)</td>
+                <td> </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>VII SEM</td>
+                <td> DS(AP)</td>
+                <td>RTS(PMB)</td>
+                <td colspan="2">SQA-A(ST)/IPPR-B(ZP)Lab</td>
+                <td> Elective-I</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td rowspan="5">Thrusday </td>
+            </tr>  
+            <tr> 
+                <td> II SEM</td>
+                <td>LC(SRd)</td>
+                <td>E.Math-II(SRA)</td>
+                <td colspan="2">WT-A(NG)/C++-B(RBT)Lab</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>    
+                <td>III SEM</td>
+                <td>E.Math-III(SRA)</td>
+                <td>SEF(PMB)</td>
+                <td> Java(BD)</td>
+                <td>MALP(SG)</td>
+                <td colspan="2"> MALP Lab(SG)</td>
+
+            </tr>
+            <tr> 
+                <td>V SEM</td>
+                <td>ADA(AP)</td>
+                <td>AII(ZP)</td>
+                <td>SM(RT)</td>
+                <td>OM(BS)</td>
+                <td colspan="2">AOS-B(PS)/SM-A(RT)Lab</td>
+            </tr>
+            <tr>
+                <td>VII SEM</td>
+                <td>RTS(PMB)</td>
+                <td>DS(AP)</td>
+                <td colspan="2">SQA-B(ST)IPPR-A(ZP)Lab</td>
+                <td> IPPR(ZP)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td rowspan="5">Friday </td>
+            </tr>  
+            <tr> 
+                <td> II SEM</td>
+                <td>LC(SRd)</td>
+                <td>E.Math-II(SRA)</td>
+                <td colspan="2">WT-B(NG)/C++-A(RBT)Lab</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>    
+                <td>III SEM</td>
+                <td colspan="2">PQT(PP)</td>
+                <td>E.Math-III(SRA)</td>
+                <td> Java(BD)</td>
+                <td colspan="2">DSA(RBT)</td>
+            </tr>
+            <tr> 
+                <td>V SEM</td>
+                <td colspan="2"> SP(BB)</td>
+                <td>AII(ZP)</td>
+                <td>SM(RT)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>VII SEM</td>
+                <td>DS(AP)</td>
+                <td>EAD(NG)</td>
+                <td>SQA(ST)</td>
+                <td> IPPR(ZP)</td>
+                <td>IPPR(ZP)</td>
+                <td></td>
+            </tr>
+     </body>
+</html>

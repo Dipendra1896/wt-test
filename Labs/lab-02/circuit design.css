@@ -1,0 +1,41 @@
+.c1{
+    top:50px;
+    margin:80px;
+    width:90%;
+    height:100px;
+    border:2px solid #ff2e93;
+    position:absolute;
+}
+.c1 .circle1{
+    width:50px;
+    height:50px;
+    border:2px solid  #ff2e93;
+    background-color:white;
+    top:-25px;
+    left:-25px;
+    border-radius:50%;
+    z-index:5;
+   position:absolute; 
+}   
+.c1 .circle2{
+    width:30px;
+    height:30px;
+    border:2px solid  #ff2e93;
+    background-color:white;
+    top:40px;
+    left:-15px;
+    border-radius:50%;
+    z-index:5;
+   position:absolute;
+}
+.c1 .circle3{
+    width:20px;
+    height:20px;
+    border:2px solid  #ff2e93;
+    background-color:white;
+    top:-10px;
+    left:50px;
+    border-radius:50%;
+    z-index:5;
+   position:absolute;
+}

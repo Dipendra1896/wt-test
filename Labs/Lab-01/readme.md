@@ -7,8 +7,6 @@ Make a webpage with the following html elemets:
   -iframe
   you can add additional elements and css to the the webpage more visually appearing.
   Deadline:23 dec.2022,8:00 AM.
-
-
 LAB NO:-1
 OBJECT:ELEMENT OF HTML
 THEORY:                                                                                                                                                                Nested order and unorder list: we have to use an ul or ol tag to describe th order of the list,we use the ul tag ;while for creating an ordered list we use,<code         <ol>/code> tag.

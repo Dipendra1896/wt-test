@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+        <style>
+           body{
+                background-image: url(./mathematics-flat-design-long-shadow-glyph-icons-set-math-symbols-algebra-vector-silhouette-illustration-2AGNJDR.jpg);
+            }
+            h1{
+                width: fit-content;
+                margin: auto;
+                left:0px;
+                position: relative;
+                top: 50px;
+                color: #04f36c;
+            }
+            input{
+               position: relative;
+               bottom: 50px;
+               padding: 20px 25px;
+               border: 1px solid yellowgreen;
+            }
+            .row1,.row2,.row3,.row4,.row5{
+                position: relative;
+                top: 60px;
+            }
+            .row1{
+                top:60px;
+            }
+            .row2{ 
+                top: 65px;
+            }
+            .row3{
+                top:70px;
+            }
+            .row4{
+                top: 75px;
+            }
+            .row5{
+                top: 80px;
+            }
+            button{
+                padding: 20px;
+                margin: 2px;
+                position: relative;
+                bottom: 90px;
+                border-radius: 10px;
+                cursor: pointer;
+                bottom: 90px;
+                border:2px solid  ;
+                background-color: white ;
+            }
+            .btn-1{
+                padding-left: 8px;
+                padding-right: 8px;
+            }
+            .btn-17{
+                padding-left: 17px;
+            }
+            .wrapper{
+                border: 2px solid green;
+                display:inline-block;
+                margin-left: 400px;
+                padding-left: 30px;
+                padding-bottom: 20px;
+                padding-right: 20px;
+                padding-top: 75px;
+                position: relative;
+                left: 128px;
+                top: 70px;
+                max-width: 500px;
+                background-color:gray;
+            }
+        </style>
+       
+    </head>
+    <body> 
+        <h1> Calculator</h1>
+        <div class="wrapper">
+            <input type="text">
+            <div class="row1">
+                <button class="btn-1">AC</button>
+                <button class="btn-2">Del</button>
+                <button class="btn-3">%</button>
+                <button class="btn-4">/</button>
+            </div>
+            <div class="row2">
+                <button class="btn-5">7</button>
+                <button class="btn-6">8</button>
+                <button class="btn-7">9</button>
+                <button class="btn-8">*</button>
+            </div>  
+            <div class="row3"> 
+                <button class="btn-9">4</button>
+                <button class="btn-10">5</button>
+                <button class="btn-11">6</button>
+                <button class="btn-12">-</button>
+            </div>    
+            <div class="row4">
+                <button class="btn-13">1</button>
+                <button class="btn-14">2</button>
+                <button class="btn-15">3</button>
+                <button class="btn-16">+</button>
+            </div>
+            <div class="row5">
+                <button class="btn-17">0</button>
+                <button class="btn-18">00</button>
+                <button class="btn-19">.</button>
+                <button class="btn-20">=</button>
+            </div>
+        </div>
+        <script src="./calculator.js"></script>
+    </body>
+    </html>

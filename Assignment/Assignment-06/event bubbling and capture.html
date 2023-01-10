@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css">
+        body{
+            padding:300px;
+            background-color:gray;
+        }
+        #div1{
+              padding:200px;
+              background-color:blue;
+        }
+        #button1{
+            padding:10px;
+            margin-left:80px;
+            margin-right:50px;
+        }
+        
+    </style>
+</head>
+<body>
+    <div id="div1">
+        <button id="button1">Click me</button>
+      </div>
+      
+      <script>
+          let div1 = document.getElementById("div1");
+          let button1 = document.getElementById("button1");
+      
+          // Event bubbling - click event on button propagates to parent div
+          div1.addEventListener("click", function(){
+              console.log("Div clicked (bubbling)");
+          });
+          button1.addEventListener("click", function(){
+              console.log("Button clicked (bubbling)"); 
+          });
+          document.body.addEventListener('click',function(){
+            console.log("body clicked(bubbling)");
+          });
+          // Event capturing - click event on button propagates to parent div
+          button1.addEventListener("click", function(){
+              console.log("Button clicked (capturing)");
+          }, true);
+      
+          div1.addEventListener("click", function(){
+              console.log("Div clicked (capturing)");
+          }, true);
+          document.body.addEventListener('click',function(){
+            console.log("body clicked(capturing)");
+         }, true);      
+      </script>      
+</body>
+</html>

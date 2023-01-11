@@ -43,9 +43,11 @@ Create a wrapper element as shown in the figure below to fill the empty space in
 
 hint: max-width
 
-Design a circuit as shown in the figure. circuit
+Design a circuit as shown in the figure. circuit![circuit](https://user-images.githubusercontent.com/117985880/211696988-8543f5ac-ee74-4005-a91a-321a8f01e721.png)
 
-Design a decorative item as shown in the screenshot below. decorative
+
+Design a decorative item as shown in the screenshot below. decorative![decorative](https://user-images.githubusercontent.com/117985880/211697016-2dfb3fff-e2de-4784-8000-52b131cd3207.png)
+
 
 Note: assets are inside assets/images/lab2 folder
 

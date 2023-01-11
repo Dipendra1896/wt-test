@@ -18,3 +18,43 @@ As shown in the figure below, design 404 page.![404 (1)](https://user-images.git
 Design CTA section as shown in the figure below.![cta](https://user-images.githubusercontent.com/117985880/207957363-3f4b6ad0-c9ec-4f41-9746-e5c66a6a0f2a.png)
 As shown in the figure below, design Hero section.![hero](https://user-images.githubusercontent.com/117985880/207957511-4361835d-14fa-477d-8e13-49c80322e0ec.png)
 As shown in the figure below, design Hero section.![nav (1)](https://user-images.githubusercontent.com/117985880/207957626-f14b5296-bff8-4216-992d-e70f77dc83e9.png)
+
+Deadline: 16th December, 10 am
+
+Develop a simple calculator
+Deadline: 4th Jan, 6 am
+
+Explain event bubbling and capture with an example
+Deadline: 11th Jan, 8 am
+
+Labs:
+Lab 1: HTML Elements.
+Make a webpage with the following html elements:
+Nested order and unorder list
+semantics tags for the layout
+text formatting tags
+image, video and audio
+iframe
+You can add additional elements and CSS to make the webpage more visually appealing. Deadline: 23 December, 8 am
+
+Lab 2: Flow layout and Positioned layout in CSS.
+Create a wrapper element as shown in the figure below to fill the empty space in smaller viewports. It specifies a maximum width and will horizontally center itself within the parent if space is available. It includes some horizontal "breathing room" so that its children aren't pressed up against the viewport's edges. wrapper
+![wrapper](https://user-images.githubusercontent.com/117985880/211696715-8818773f-2e1e-4184-9d4b-ccbf70953c4c.gif)
+
+hint: max-width
+
+Design a circuit as shown in the figure. circuit
+
+Design a decorative item as shown in the screenshot below. decorative
+
+Note: assets are inside assets/images/lab2 folder
+
+Deadline: 30th December, 8 am
+
+Lab 3: Javascript Fundamentals
+WAP to reverse the string provided by the user.
+Write a function to check if the provided number is palindromic or not.
+Write a program to find the sum of prime number between 1 and 50.
+Write a function that reverse the provided array.
+Write a function that sorts the provided array based on the parameter (i.e. asc = ascending, desc = descending order).
+Deadline: 13th Jan, 8 am

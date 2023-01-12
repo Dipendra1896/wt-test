@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Prime Number Sum</title>
+  </head>
+  <body>
+    <div id="input-container">
+      <button onclick="findSum()">Find Sum</button>
+    </div>
+    <div id="output-container">
+      <p id="output-result"></p>
+    </div>
+    <script>
+      function findSum() {
+        let sum = 0;
+        for (let i = 2; i <= 50; i++) {
+          let isPrime = true;
+          for (let j = 2; j <= i / 2; j++) {
+            if (i % j === 0) {
+              isPrime = false;
+              break;
+            }
+          }
+          if (isPrime) {
+            sum += i;
+          }
+        }
+        document.getElementById("output-result").innerHTML = "The sum of prime numbers between 1 and 50 is: " + sum;
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reverse Array</title>
+</head>
+<body>
+    <div id="input-container">
+        <button onclick="reverseArray()">Reverse</button>
+      </div>
+      <div id="output-container">
+        <p id="output-result"></p>
+      </div>
+      <script>
+        let array = [1, 2, 3, 4, 5];
+        function reverseArray() {
+          let reversedArray = array.reverse();
+          document.getElementById("output-result").innerHTML = "The reversed array is: " + reversedArray;
+        }
+      </script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Array Sorter</title>
+</head>
+<body>
+    <div id="input-container">
+        <select id="sort-order">
+          <option value="asc">Ascending</option>
+          <option value="desc">Descending</option>
+        </select>
+        <button onclick="sortArray()">Sort</button>
+      </div>
+      <div id="output-container">
+        <p id="output-result"></p>
+      </div>
+      <script>
+        let array = [5, 2, 8, 1, 9];
+        function sortArray() {
+          let sortOrder = document.getElementById("sort-order").value;
+          if (sortOrder === "asc") {
+            array.sort(function(a, b) {
+              return a - b;
+            });
+          } else if (sortOrder === "desc") {
+            array.sort(function(a, b) {
+              return b - a;
+            });
+          }
+          document.getElementById("output-result").innerHTML = "The sorted array is: " + array;
+        }
+      </script>
+</body>
+</html>

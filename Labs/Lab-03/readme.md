@@ -1,5 +1,7 @@
 Lab-03:
 program no.1:
+
+
 OBJECT: WAP TO REVERSE THE STRING PROVIDED BY THE USERS.
 THEORY:
       When the user enters a string in the input field and clicks the "Reverse" button, the JavaScript function reverseString() is called. This function gets the value of the input field, reverses the string using the split(), reverse(), and join() methods, and then displays the reversed string in the output element.

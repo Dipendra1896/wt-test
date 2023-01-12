@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab-2
 
 # OBJECTIVE: FLOW LAYOUT AND POSITIONED LAYOUT IN CSS
@@ -18,3 +19,6 @@ In this way we can manage the layout in webpage.
 
 
 
+=======
+
+>>>>>>> cd4008e482f63d2129e97458438cf697e5bbdf84

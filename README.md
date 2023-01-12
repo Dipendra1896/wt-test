@@ -19,7 +19,10 @@ Design CTA section as shown in the figure below.![cta](https://user-images.githu
 As shown in the figure below, design Hero section.![hero](https://user-images.githubusercontent.com/117985880/207957511-4361835d-14fa-477d-8e13-49c80322e0ec.png)
 As shown in the figure below, design Hero section.![nav (1)](https://user-images.githubusercontent.com/117985880/207957626-f14b5296-bff8-4216-992d-e70f77dc83e9.png)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd4008e482f63d2129e97458438cf697e5bbdf84
 Deadline: 16th December, 10 am
 
 Develop a simple calculator
@@ -40,12 +43,24 @@ You can add additional elements and CSS to make the webpage more visually appeal
 
 Lab 2: Flow layout and Positioned layout in CSS.
 Create a wrapper element as shown in the figure below to fill the empty space in smaller viewports. It specifies a maximum width and will horizontally center itself within the parent if space is available. It includes some horizontal "breathing room" so that its children aren't pressed up against the viewport's edges. wrapper
+<<<<<<< HEAD
 
 hint: max-width
 
 Design a circuit as shown in the figure. circuit
 
 Design a decorative item as shown in the screenshot below. decorative
+=======
+![wrapper](https://user-images.githubusercontent.com/117985880/211696715-8818773f-2e1e-4184-9d4b-ccbf70953c4c.gif)
+
+hint: max-width
+
+Design a circuit as shown in the figure. circuit![circuit](https://user-images.githubusercontent.com/117985880/211696988-8543f5ac-ee74-4005-a91a-321a8f01e721.png)
+
+
+Design a decorative item as shown in the screenshot below. decorative![decorative](https://user-images.githubusercontent.com/117985880/211697016-2dfb3fff-e2de-4784-8000-52b131cd3207.png)
+
+>>>>>>> cd4008e482f63d2129e97458438cf697e5bbdf84
 
 Note: assets are inside assets/images/lab2 folder
 
@@ -57,4 +72,10 @@ Write a function to check if the provided number is palindromic or not.
 Write a program to find the sum of prime number between 1 and 50.
 Write a function that reverse the provided array.
 Write a function that sorts the provided array based on the parameter (i.e. asc = ascending, desc = descending order).
+<<<<<<< HEAD
 Deadline: 13th Jan, 8 am
+=======
+
+
+Deadline: 13th Jan, 8 am
+>>>>>>> cd4008e482f63d2129e97458438cf697e5bbdf84

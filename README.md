@@ -23,7 +23,7 @@ As shown in the figure below, design 404 page.![404 (1)](https://user-images.git
 ![hero](https://user-images.githubusercontent.com/117985880/207957511-4361835d-14fa-477d-8e13-49c80322e0ec.png)
 
 <h3>As shown in the figure below, design Hero section.</h3>
-![nav (1)](https://user-images.githubusercontent.com/117985880/207957626-f14b5296-bff8-4216-992d-e70f77dc83e9.png
+hero![nav (1)](https://user-images.githubusercontent.com/117985880/207957626-f14b5296-bff8-4216-992d-e70f77dc83e9.png
 
 
 <h3>Deadline: 16th December, 10 am</h3>

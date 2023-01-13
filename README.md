@@ -16,12 +16,13 @@ Background (background color, background images, background size, background pos
 
 
 <h3>Design Navbar, CTA, Hero section and 404 page.</h3>
-As shown in the figure below, design 404 page.![box](https://user-images.githubusercontent.com/117985880/212355644-d6a295cb-cdd0-4e45-bfce-5b6699399d2f.png)
+As shown in the figure below, design 404 page.
+![box](https://user-images.githubusercontent.com/117985880/212355644-d6a295cb-cdd0-4e45-bfce-5b6699399d2f.png)
 
 
 
 <h3>Design CTA section as shown in the figure below.</h3>
-![cta](https://user-images.githubusercontent.com/117985880/212354438-0bc5250a-831c-454c-b585-8f414625575d.png)
+
 
 
 <h3>As shown in the figure below, design Hero section.</h3>

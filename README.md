@@ -12,7 +12,8 @@ Background (background color, background images, background size, background pos
 
 <h3>Buttons, Border, Color and Pseudo class.</h3>
 <h3>Create buttons as per given figure.</h3>
-![circuit](https://user-images.githubusercontent.com/117985880/212354139-97ac92ee-5921-4b30-b92e-1ee71fe7a8a1.png)
+![circuit](https://user-images.githubusercontent.com/117985880/212355382-6c002965-1ca3-4537-8776-99f72b9e8766.png)
+
 
 <h3>Design Navbar, CTA, Hero section and 404 page.</h3>
 As shown in the figure below, design 404 page.![404](https://user-images.githubusercontent.com/117985880/212354281-e3f5d0ea-84cc-44ca-8a12-e90ec1b5b92e.png)
@@ -100,4 +101,4 @@ Create an HTML form that takes user's email address and password. Validate the f
 Write a JS program which validates the user data (name, email, contact no, country) and displays the success message if validated successfully. Also create the HTML form for entering the data.
   
 Deadline: 20th Jan, 8 am
-![box](https://user-images.githubusercontent.com/117985880/212355037-54d22eea-5233-4422-9f9b-4ca92605d5fb.png)
+

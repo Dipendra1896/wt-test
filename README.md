@@ -12,7 +12,8 @@ Background (background color, background images, background size, background pos
 
 <h3>Buttons, Border, Color and Pseudo class.</h3>
 <h3>Create buttons as per given figure.</h3>
-![circuit](https://user-images.githubusercontent.com/117985880/212356118-cce3caec-124d-42d4-a13f-fcda2e4b8f9a.png)
+![404](https://user-images.githubusercontent.com/117985880/212356334-78eee93b-4b6d-4eb7-b9e0-62e8aa18bd6d.png)
+
 
 
 

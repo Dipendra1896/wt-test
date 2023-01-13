@@ -12,11 +12,12 @@ Background (background color, background images, background size, background pos
 
 <h3>Buttons, Border, Color and Pseudo class.</h3>
 <h3>Create buttons as per given figure.</h3>
-![circuit](https://user-images.githubusercontent.com/117985880/212355382-6c002965-1ca3-4537-8776-99f72b9e8766.png)
+
 
 
 <h3>Design Navbar, CTA, Hero section and 404 page.</h3>
-As shown in the figure below, design 404 page.![404](https://user-images.githubusercontent.com/117985880/212354281-e3f5d0ea-84cc-44ca-8a12-e90ec1b5b92e.png)
+As shown in the figure below, design 404 page.![box](https://user-images.githubusercontent.com/117985880/212355644-d6a295cb-cdd0-4e45-bfce-5b6699399d2f.png)
+
 
 
 <h3>Design CTA section as shown in the figure below.</h3>

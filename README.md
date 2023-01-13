@@ -41,8 +41,11 @@ image, video and audio
 iframe
 You can add additional elements and CSS to make the webpage more visually appealing. Deadline: 23 December, 8 am
 
-Lab 2: Flow layout and Positioned layout in CSS.
-Create a wrapper element as shown in the figure below to fill the empty space in smaller viewports. It specifies a maximum width and will horizontally center itself within the parent if space is available. It includes some horizontal "breathing room" so that its children aren't pressed up against the viewport's edges. wrapper
+<h3>Lab 2: Flow layout and Positioned layout in CSS.<h/3>
+  
+Create a wrapper element as shown in the figure below to fill the empty space in smaller viewports. It specifies a maximum width and will horizontally center itself
+  
+within the parent if space is available. It includes some horizontal "breathing room" so that its children aren't pressed up against the viewport's edges. wrapper
 <<<<<<< HEAD
 
 hint: max-width

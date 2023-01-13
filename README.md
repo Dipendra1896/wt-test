@@ -100,3 +100,4 @@ Create an HTML form that takes user's email address and password. Validate the f
 Write a JS program which validates the user data (name, email, contact no, country) and displays the success message if validated successfully. Also create the HTML form for entering the data.
   
 Deadline: 20th Jan, 8 am
+![box](https://user-images.githubusercontent.com/117985880/212355037-54d22eea-5233-4422-9f9b-4ca92605d5fb.png)

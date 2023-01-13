@@ -25,13 +25,13 @@ As shown in the figure below, design Hero section.![nav (1)](https://user-images
 >>>>>>> cd4008e482f63d2129e97458438cf697e5bbdf84
 Deadline: 16th December, 10 am
 
-Develop a simple calculator
+<h2>Develop a simple calculator</h2>
 Deadline: 4th Jan, 6 am
 
-Explain event bubbling and capture with an example
+<h2>Explain event bubbling and capture with an example</h2>
 Deadline: 11th Jan, 8 am
 
-Labs:
+<h1>Labs:</h1>
 Lab 1: HTML Elements.
 Make a webpage with the following html elements:
 Nested order and unorder list
@@ -44,15 +44,13 @@ You can add additional elements and CSS to make the webpage more visually appeal
 <h3>Lab 2: Flow layout and Positioned layout in CSS.<h/3>
   
 Create a wrapper element as shown in the figure below to fill the empty space in smaller viewports. It specifies a maximum width and will horizontally center itself
-  
 within the parent if space is available. It includes some horizontal "breathing room" so that its children aren't pressed up against the viewport's edges. wrapper
-<<<<<<< HEAD
 
 hint: max-width
 
-Design a circuit as shown in the figure. circuit
+  <h3>Design a circuit as shown in the figure.</h3>
 
-Design a decorative item as shown in the screenshot below. decorative
+  <h3>Design a decorative item as shown in the screenshot below.</h3> decorative
 =======
 ![wrapper](https://user-images.githubusercontent.com/117985880/211696715-8818773f-2e1e-4184-9d4b-ccbf70953c4c.gif)
 
@@ -62,9 +60,7 @@ Design a circuit as shown in the figure. circuit![circuit](https://user-images.g
 
 
 Design a decorative item as shown in the screenshot below. decorative![decorative](https://user-images.githubusercontent.com/117985880/211697016-2dfb3fff-e2de-4784-8000-52b131cd3207.png)
-
->>>>>>> cd4008e482f63d2129e97458438cf697e5bbdf84
-
+           
 Note: assets are inside assets/images/lab2 folder
 
 Deadline: 30th December, 8 am

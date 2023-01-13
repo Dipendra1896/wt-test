@@ -1,39 +1,42 @@
 
-WT-2021
-Assignments:
-Create a college routine in HTML.
+<h1>WT-2021</h1>
+<h2>Assignments:</h2>
+<h3>Create a college routine in HTML.</h3>
 Deadline: 23rd November, 12 pm
 
-Create a web document to illustrate following using CSS:
+<h3>Create a web document to illustrate following using CSS:</h3>
 Color (name, rgb, hex, rgba, hsl, hsla)
 Text formatting (color, line height, font, font-weight, underline, stroke, itallic)
 Background (background color, background images, background size, background position)
-Deadline: 29th November, 11 pm
+<h3>Deadline: 29th November, 11 pm</h3>
 
-Buttons, Border, Color and Pseudo class.
-Create buttons as per given figure.
+<h3>Buttons, Border, Color and Pseudo class.</h3>
+<h3>Create buttons as per given figure.</h3>
 ![buttons](https://user-images.githubusercontent.com/117985880/207955042-535f5df7-88f3-40f7-b274-144c272d315f.png)
-Design Navbar, CTA, Hero section and 404 page.
+<h3>Design Navbar, CTA, Hero section and 404 page.</h3>
 As shown in the figure below, design 404 page.![404 (1)](https://user-images.githubusercontent.com/117985880/207957029-3b83f42f-f49f-4c18-b925-a3a82c70a531.png)
-Design CTA section as shown in the figure below.![cta](https://user-images.githubusercontent.com/117985880/207957363-3f4b6ad0-c9ec-4f41-9746-e5c66a6a0f2a.png)
-As shown in the figure below, design Hero section.![hero](https://user-images.githubusercontent.com/117985880/207957511-4361835d-14fa-477d-8e13-49c80322e0ec.png)
-As shown in the figure below, design Hero section.![nav (1)](https://user-images.githubusercontent.com/117985880/207957626-f14b5296-bff8-4216-992d-e70f77dc83e9.png)
 
-<<<<<<< HEAD
+<h3>Design CTA section as shown in the figure below.</h3>
+![cta](https://user-images.githubusercontent.com/117985880/207957363-3f4b6ad0-c9ec-4f41-9746-e5c66a6a0f2a.png)
 
-=======
->>>>>>> cd4008e482f63d2129e97458438cf697e5bbdf84
-Deadline: 16th December, 10 am
+<h3>As shown in the figure below, design Hero section.</h3>
+![hero](https://user-images.githubusercontent.com/117985880/207957511-4361835d-14fa-477d-8e13-49c80322e0ec.png)
+
+<h3>As shown in the figure below, design Hero section.</h3>
+![nav (1)](https://user-images.githubusercontent.com/117985880/207957626-f14b5296-bff8-4216-992d-e70f77dc83e9.png
+
+
+<h3>Deadline: 16th December, 10 am</h3>
 
 <h2>Develop a simple calculator</h2>
 Deadline: 4th Jan, 6 am
 
 <h2>Explain event bubbling and capture with an example</h2>
-Deadline: 11th Jan, 8 am
+<h3>Deadline: 11th Jan, 8 am</h3>
 
 <h1>Labs:</h1>
-Lab 1: HTML Elements.
-Make a webpage with the following html elements:
+<h1>Lab 1: HTML Elements.</h1>
+<h3>Make a webpage with the following html elements:</h3>
 Nested order and unorder list
 semantics tags for the layout
 text formatting tags
@@ -43,8 +46,7 @@ You can add additional elements and CSS to make the webpage more visually appeal
 
 <h3>Lab 2: Flow layout and Positioned layout in CSS.<h/3>
   
-Create a wrapper element as shown in the figure below to fill the empty space in smaller viewports. It specifies a maximum width and will horizontally center itself
-within the parent if space is available. It includes some horizontal "breathing room" so that its children aren't pressed up against the viewport's edges. wrapper
+<h3>Create a wrapper element as shown in the figure below to fill the empty space in smaller viewports. It specifies a maximum width and will horizontally center itself within the parent if space is available. It includes some horizontal "breathing room" so that its children aren't pressed up against the viewport's edges. wrapper</h3>
 
 hint: max-width
 

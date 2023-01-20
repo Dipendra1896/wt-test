@@ -1,39 +1,50 @@
 
-WT-2021
-Assignments:
-Create a college routine in HTML.
+<h1>WT-2021</h1>
+<h2>Assignments:</h2>
+<h3>Create a college routine in HTML.</h3>
 Deadline: 23rd November, 12 pm
 
-Create a web document to illustrate following using CSS:
+<h3>Create a web document to illustrate following using CSS:</h3>
 Color (name, rgb, hex, rgba, hsl, hsla)
 Text formatting (color, line height, font, font-weight, underline, stroke, itallic)
 Background (background color, background images, background size, background position)
-Deadline: 29th November, 11 pm
+<h3>Deadline: 29th November, 11 pm</h3>
 
-Buttons, Border, Color and Pseudo class.
-Create buttons as per given figure.
-![buttons](https://user-images.githubusercontent.com/117985880/207955042-535f5df7-88f3-40f7-b274-144c272d315f.png)
-Design Navbar, CTA, Hero section and 404 page.
-As shown in the figure below, design 404 page.![404 (1)](https://user-images.githubusercontent.com/117985880/207957029-3b83f42f-f49f-4c18-b925-a3a82c70a531.png)
-Design CTA section as shown in the figure below.![cta](https://user-images.githubusercontent.com/117985880/207957363-3f4b6ad0-c9ec-4f41-9746-e5c66a6a0f2a.png)
-As shown in the figure below, design Hero section.![hero](https://user-images.githubusercontent.com/117985880/207957511-4361835d-14fa-477d-8e13-49c80322e0ec.png)
-As shown in the figure below, design Hero section.![nav (1)](https://user-images.githubusercontent.com/117985880/207957626-f14b5296-bff8-4216-992d-e70f77dc83e9.png)
+<h3>Buttons, Border, Color and Pseudo class.</h3>
+<h3>Create buttons as per given figure.</h3>
+![404](https://user-images.githubusercontent.com/117985880/212356334-78eee93b-4b6d-4eb7-b9e0-62e8aa18bd6d.png)
 
-<<<<<<< HEAD
 
-=======
->>>>>>> cd4008e482f63d2129e97458438cf697e5bbdf84
-Deadline: 16th December, 10 am
 
-Develop a simple calculator
+
+<h3>Design Navbar, CTA, Hero section and 404 page.</h3>
+As shown in the figure below, design 404 page.
+![box](https://user-images.githubusercontent.com/117985880/212355644-d6a295cb-cdd0-4e45-bfce-5b6699399d2f.png)
+
+
+
+<h3>Design CTA section as shown in the figure below.</h3>
+
+
+
+<h3>As shown in the figure below, design Hero section.</h3>
+![hero](https://user-images.githubusercontent.com/117985880/207957511-4361835d-14fa-477d-8e13-49c80322e0ec.png)p;========
+
+<h3>As shown in the figure below, design Hero section.</h3>
+hero![nav (1)](https://user-images.githubusercontent.com/117985880/207957626-f14b5296-bff8-4216-992d-e70f77dc83e9.png
+
+
+<h3>Deadline: 16th December, 10 am</h3>
+
+<h2>Develop a simple calculator</h2>
 Deadline: 4th Jan, 6 am
 
-Explain event bubbling and capture with an example
-Deadline: 11th Jan, 8 am
+<h2>Explain event bubbling and capture with an example</h2>
+<h3>Deadline: 11th Jan, 8 am</h3>
 
-Labs:
-Lab 1: HTML Elements.
-Make a webpage with the following html elements:
+<h1>Labs:</h1>
+<h1>Lab 1: HTML Elements.</h1>
+<h3>Make a webpage with the following html elements:</h3>
 Nested order and unorder list
 semantics tags for the layout
 text formatting tags
@@ -41,15 +52,15 @@ image, video and audio
 iframe
 You can add additional elements and CSS to make the webpage more visually appealing. Deadline: 23 December, 8 am
 
-Lab 2: Flow layout and Positioned layout in CSS.
-Create a wrapper element as shown in the figure below to fill the empty space in smaller viewports. It specifies a maximum width and will horizontally center itself within the parent if space is available. It includes some horizontal "breathing room" so that its children aren't pressed up against the viewport's edges. wrapper
-<<<<<<< HEAD
+<h3>Lab 2: Flow layout and Positioned layout in CSS.<h/3>
+  
+<h3>Create a wrapper element as shown in the figure below to fill the empty space in smaller viewports. It specifies a maximum width and will horizontally center itself within the parent if space is available. It includes some horizontal "breathing room" so that its children aren't pressed up against the viewport's edges. wrapper</h3>
 
 hint: max-width
 
-Design a circuit as shown in the figure. circuit
+  <h3>Design a circuit as shown in the figure.</h3>
 
-Design a decorative item as shown in the screenshot below. decorative
+  <h3>Design a decorative item as shown in the screenshot below.</h3> decorative
 =======
 ![wrapper](https://user-images.githubusercontent.com/117985880/211696715-8818773f-2e1e-4184-9d4b-ccbf70953c4c.gif)
 
@@ -59,9 +70,7 @@ Design a circuit as shown in the figure. circuit![circuit](https://user-images.g
 
 
 Design a decorative item as shown in the screenshot below. decorative![decorative](https://user-images.githubusercontent.com/117985880/211697016-2dfb3fff-e2de-4784-8000-52b131cd3207.png)
-
->>>>>>> cd4008e482f63d2129e97458438cf697e5bbdf84
-
+           
 Note: assets are inside assets/images/lab2 folder
 
 Deadline: 30th December, 8 am
@@ -81,11 +90,23 @@ Deadline: 13th Jan, 8 am
 ===
 
 
-Lab 4: Event handling in Javascript
+<h3>Lab 4: Event handling in Javascript</h3>
+
 Write a program to demonstrate page load event.
+
 Write JS code to illustrate element positioning, stacking elements and mouse cursor.
+
 Write JS function to validate a form input field for onblur event whether it is blank or not and contains number or not.
+  
 Write JS code to find the factorial of a number requesting a number from user using prompt. Display result on button click.
+  
 Create an HTML form that takes user's email address and password. Validate the form using JS when the submit button is clicked. Make sure that the fields are not empty and the email address is a valid email address.
+  
 Write a JS program which validates the user data (name, email, contact no, country) and displays the success message if validated successfully. Also create the HTML form for entering the data.
+<<<<<<< HEAD
 Deadline: 20th Jan, 2023
+=======
+  
+Deadline: 20th Jan, 8 am
+
+>>>>>>> 81f2d1653089fb3f26f381e4f14ac99be3cc1d90

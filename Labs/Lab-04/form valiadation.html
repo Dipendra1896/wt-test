@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form validation</title>
+    <script type = "text/javascript">
+        function validate() {
+        
+           if( document.myForm.Name.value == "" ) {
+              alert( "Please provide your name!" );
+              document.myForm.Name.focus() ;
+              return false;
+           }
+           if( document.myForm.EMail.value == "" ) {
+              alert( "Please provide your Email!" );
+              document.myForm.EMail.focus() ;
+              return false;
+           }
+           if( document.myForm.Zip.value == "" || isNaN( document.myForm.Zip.value ) ||
+              document.myForm.Zip.value.length != 5 ) {
+              
+              alert( "Please provide a zip in the format #####." );
+              document.myForm.Zip.focus() ;
+              return false;
+           }
+           if( document.myForm.Country.value == "-1" ) {
+              alert( "Please provide your country!" );
+              return false;
+           }
+           return( true );
+        }
+  </script>
+</head>
+<body>
+    <form action = "/my-handling-form-page" name = "myForm" onsubmit = "return(validate());">
+        <table cellspacing = "2" cellpadding = "2" border = "1">
+           
+           <tr>
+              <td align = "right">Name</td>
+              <td><input type = "text" name = "Name" /></td>
+           </tr>
+           
+           <tr>
+              <td align = "right">EMail</td>
+              <td><input type = "text" name = "EMail" /></td>
+           </tr>
+           
+           <tr>
+              <td align = "right">Zip Code</td>
+              <td><input type = "text" name = "Zip" /></td>
+           </tr>
+           
+           <tr>
+              <td align = "right">Country</td>
+              <td>
+                 <select name = "Country">
+                    <option value = "-1" selected>[choose yours country name]</option>
+                    <option value = "1">Nepal</option>
+                    <option value = "2">United kingdom</option>
+                    <option value = "3">INDIA</option>
+                    <option value = "4">America</option>
+                    <option value = "5">Canada</option>
+                    <option value = "6">Malasiya</option>
+                    <option value = "7">Germany</option>
+                    <option value = "8">Australia</option>
+                    <option value = "9">Sri Lanka</option>
+                    <option value = "10">Finland</option>
+                    <option value = "11">Qatar</option>
+                    <option value = "12">Netherlands</option>
+                    <option value = "13">Japan</option>
+                    <option value = "14">Denmark</option>
+                    <option value = "15">chine</option>
+                    <option value = "16">Bhutan</option>
+                    <option value = "17">Pakistan</option>
+                    <option value = "18">Bangladesh</option>
+                    <option value = "19">Turkiye</option>
+                    <option value = "20">Norway</option>
+                    <option value = "21">Italy</option>
+                    <option value = "22">Russia</option>
+                    <option value = "23">Argentina</option>
+                    <option value = "24">Peru</option>
+                    <option value = "25">Maldives</option>
+                    <option value = "26">Indonesia</option>
+                    <option value = "27">Singapore</option>
+                    <option value = "28">Vietnam</option>
+                    <option value = "29">Phinippines</option>
+                    <option value = "30">South Korea</option>
+                    <option value = "31">Thailand</option>
+                    <option value = "32">Iran</option>
+                 </select>
+              </td>
+           </tr>
+           
+           <tr>
+              <td align = "right"></td>
+              <td><input type = "submit" value = "Submit" /></td>
+           </tr>
+        </table>
+     </form>  
+</body>
+</html>

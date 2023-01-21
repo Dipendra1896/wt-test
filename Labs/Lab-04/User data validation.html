@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Data Validation</title>
+    <script type="text/javascript"> 
+        function validateForm() { 
+            var name = document.getElementById("name").value; 
+            var email = document.getElementById("email").value; 
+            var contact = document.getElementById("contact").value; 
+            var country = document.getElementById("country").value; 
+            var emailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/; 
+            var contactRegex = /^[0-9]{10}$/; 
+            if(name == "" || email == "" || contact == "" || country == "") { 
+            alert("Please fill in all fields."); 
+            return false; 
+           } 
+           else if(!emailRegex.test(email)) { 
+            alert("Please enter a valid email address."); 
+            return false; 
+           } 
+           else if(!contactRegex.test(contact)) { 
+            alert("Please enter a valid contact number."); 
+            return false; 
+           } 
+           else { 
+            alert("User data validated successfully!"); 
+            return true; 
+           } 
+           }
+   </script>
+</head>
+<body>
+    <form onsubmit="return validateForm()"> 
+        Name: <input type="text" id="name"><br> 
+        Email: <input type="text" id="email"><br> 
+        Contact Number: <input type="text" id="contact"><br> 
+        Country: <input type="text" id="country"><br> 
+        <input type="submit" value="Submit"> 
+    </form> 
+</body>
+</html>

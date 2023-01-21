@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculate Factorial</title>
+    <style>
+      .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      input[type="number"] {
+        padding: 10px;
+        font-size: 20px;
+        margin-bottom: 20px;
+      }
+      button {
+        padding: 10px 20px;
+        font-size: 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+      #result {
+        font-size: 30px;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">                                                                                                                                                                                     
+      <h1>Calculate Factorial</h1>
+      <input type="number" id="number" placeholder="Enter a number">
+      <button onclick="calculateFactorial()">Calculate</button>
+      <p id="result"></p>                                                                                                                                 
+    </div>
+    <script>
+        // Function to calculate factorial of a number                                                                                                            
+        function calculateFactorial() {
+          // Get the input number                                          
+          var number = document.getElementById("number").value;
+          // Initialize factorial to 1                                                                         
+          var factorial = 1;
+          // Loop through the number and multiply by each previous number
+          for (var i = 1; i <= number; i++) {                                         
+            factorial *= i;                                                                                          
+          }                                                                                             
+          // Display the result
+          document.getElementById("result").innerHTML = "The factorial of " + number + " is " + factorial;
+        }
+      </script>                                                                                                                
+</body>
+</html>

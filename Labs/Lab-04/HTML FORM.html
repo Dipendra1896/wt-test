@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML form validation</title>  
+      <script type="text/javascript">
+        function validateForm() { 
+        var email = document.getElementById("email").value; 
+        var password = document.getElementById("password").value; 
+        var emailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/; 
+       if(email == "" || password == "") { 
+       alert("Please fill in all fields."); 
+       return false; 
+       } 
+      else if(!emailRegex.test(email)) { 
+      alert("Please enter a valid email address."); 
+      return false; 
+      } 
+      else { 
+      alert("Form submitted successfully!");                                                                                                                                                                                                                    
+      return true; 
+      }  
+      }                                     
+     </script>
+</head> 
+<body>
+    <form onsubmit="return validateForm()">                                   
+        Email: <input type="text" id="email"><br> 
+        Password: <input type="password" id="password"><br> 
+        <input type="submit" value="Submit"> 
+    </form> 
+</body>
+</html>
